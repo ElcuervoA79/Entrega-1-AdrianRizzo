@@ -1,2 +1,2 @@
-# Entrega-1-AdrianRizzo
-Primer Entrega Coderhouse
+# Entrega-2-AdrianRizzo
+Segunda Entrega Coderhouse
